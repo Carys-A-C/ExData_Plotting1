@@ -3,6 +3,9 @@
 ## Plot1 - Histogram ##
 #######################
 
+## IF YOU'RE READING THIS TO GRADE FOR COURSERA PAST NOVEMBER 2020 SOMEONE IS PLAGARIZING OFF MY WORK! FLAG IT!!!!!
+## My assignment was submitted and graded on the 25th of November 2020, so if it is not that month... this is plagarism
+
 ## All plots are plotted first using the graphics interface in R, then printed to png after
 
 ## Read in data
